@@ -5,7 +5,7 @@ class calculator:
         self.num2=number2
     
 if __name__=="__main__":
-    a=10
+    number1=10
     b=2
     cur_obj=calculator(a,b)
     
